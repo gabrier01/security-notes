@@ -2,7 +2,7 @@
 
 Repositório de anotações e insights sobre segurança da informação, com foco em pentest, red team, blue team, redes, sistemas, protocolos, ferramentas e o que mais surgir pelo caminho.
 
-![example](https://i.imgur.com/TNpTjoD.gif)
+![example](misc/example.gif)
 
 > [!NOTE]
 > Todo o conteúdo deste repositório foi feito utilizando o [Obsidian](https://obsidian.md/), portanto é recomendado que utilize ele, ou algum software parecido, para a navegação entre as notas.
