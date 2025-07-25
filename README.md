@@ -4,7 +4,7 @@ Repositório de anotações e insights sobre segurança da informação, com foc
 
 ![example](https://i.imgur.com/TNpTjoD.gif)
 
-> [!NOTE] Obsidian
+> [!NOTE]
 > Todo o conteúdo deste repositório foi feito utilizando o [Obsidian](https://obsidian.md/), portanto é recomendado que utilize ele, ou algum software parecido, para a navegação entre as notas.
 >
 > Para quem for abrir no Obsidian, recomendo que veja o arquivo `misc/Obsidian - Custom CSS.md`
