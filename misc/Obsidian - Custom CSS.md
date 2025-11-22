@@ -1,5 +1,7 @@
 Os exemplo de arquivos `css` neste documento podem ser criados na pasta `<vault-name>/.obsidian/snippets` e ativadas nas configurações (`Appearance -> CSS Snippets`).
 
+Após isso, feche o Obsidian e o abra novamente. É esperado que os callouts e diagramas abaixo sejam renderizados corretamente conforme a descrição de cada um:
+
 ---
 
 ```css
@@ -11,7 +13,7 @@ Os exemplo de arquivos `css` neste documento podem ser criados na pasta `<vault-
 ```
 
 > [!blueteam] Blue Team
-> Deve ter o icon de um escudo com um sinal de mais e fundo azul
+> Deve ter o icon de um escudo com um sinal de "+" e fundo azul
 
 ---
 
@@ -21,12 +23,10 @@ Os exemplo de arquivos `css` neste documento podem ser criados na pasta `<vault-
     --callout-color: 0, 90, 250;
     --callout-icon: lucide-shield;
 }
-
 ```
 
 > [!redteam] Red Team
 > Deve ter o icon de duas espadas cruzadas e fundo vermelho
-
 
 ---
 
@@ -37,15 +37,14 @@ Os exemplo de arquivos `css` neste documento podem ser criados na pasta `<vault-
     display: block;
     width: 100%;
     height: auto;
-    max-height: 650px; 
+    max-height: 650px;
     margin: 0;
     padding: 0;
 }
-
-
 ```
 
 Diagrama deve estar centralizado:
+
 ```mermaid
 sequenceDiagram
     participant Client

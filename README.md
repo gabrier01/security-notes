@@ -32,9 +32,6 @@ _Os prefixos numerados nas notas e diretórios são meramente para manter uma or
     -   `References`: referências a documentos, cheat sheets, livros etc.
 -   `Templates`: arquivos de template, usados para a criação de notas de um determinado `Index`. Notas criadas a partir de templates devem ser inclusas em `Knowledge` ou `Applications`.
 
-> [!NOTE]
-> Eu não sei se essa é a melhor forma de organizar, nem se as notas estão exatamente no lugar que fazem sentido de estarem. Estou aberto a sugestões.
-
 ## Contribuição
 
 Este repositório está aberto a contribuições. Se quiser sugerir uma nova estrutura de organização, criar, atualizar ou remover notas, basta clonar o repositório, criar uma branch baseada na `master` e abrir uma issue explicando o que pretende fazer 🤠👍.
