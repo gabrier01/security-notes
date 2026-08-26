@@ -7,7 +7,7 @@ Após isso, feche o Obsidian e o abra novamente. É esperado que os callouts e d
 ```css
 /** blueteam-callot.css */
 .callout[data-callout="blueteam"] {
-    --callout-color: 0, 90, 250;
+    --callout-color: rgb(0, 90, 250);
     --callout-icon: lucide-shield-plus;
 }
 ```
@@ -20,7 +20,7 @@ Após isso, feche o Obsidian e o abra novamente. É esperado que os callouts e d
 ```css
 /** redteam-callot.css */
 .callout[data-callout="redteam"] {
-    --callout-color: 0, 90, 250;
+    --callout-color: rgb(0, 90, 250);
     --callout-icon: lucide-shield;
 }
 ```
@@ -32,7 +32,6 @@ Após isso, feche o Obsidian e o abra novamente. É esperado que os callouts e d
 
 ```css
 /** mermaid.css */
-
 .mermaid svg {
     display: block;
     width: 100%;
